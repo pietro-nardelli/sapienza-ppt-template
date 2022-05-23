@@ -3,6 +3,7 @@
 This is a **unofficial** slide template for La Sapienza, University of Rome.
 It is developed on [google slides](https://docs.google.com/presentation/u/0/), therefore compatibility with Microsoft Power Point is not assured.
 A template example can be seen [here](https://github.com/pietro-nardelli/sapienza-ppt-template/blob/main/sapienza-ppt-template.pdf). 
+This is intended to be a simple but complete template, however feel free to make it your own.
 
 ## How to use it
 There are two possibilities:
@@ -14,3 +15,7 @@ This template is released under the `BY-NC-SA` Creative Common license: [Attribu
 Thus, you are free to:
 - Share — copy and redistribute the material in any medium or format
 - Adapt — remix, transform, and build upon the material  
+
+--- 
+
+I would like to thanks to Sapienza NLP Group from which I took the initial inspiration.
