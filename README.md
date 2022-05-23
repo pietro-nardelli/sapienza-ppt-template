@@ -6,7 +6,7 @@ A template example can be seen [here](https://github.com/pietro-nardelli/sapienz
 
 ## How to use it
 There are two possibilities:
-- Generate a copy from the [template in google slide](https://docs.google.com/presentation/d/1t6adiSpkEV6RKvrBBEbmBLQuyo7_mFRGFxlDhTsd0gg/edit?usp=sharing).
+- Generate a copy of the template [in google slide](https://docs.google.com/presentation/d/1t6adiSpkEV6RKvrBBEbmBLQuyo7_mFRGFxlDhTsd0gg/edit?usp=sharing).
 - Simply download the repository and open your `.pptx` or `.odp` file with your favourite software. 
 
 ## License
