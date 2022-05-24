@@ -19,4 +19,4 @@ Thus, you are free to:
 
 --- 
 
-I would like to thanks to Sapienza NLP Group from which I took the initial inspiration :bow:. 
+I would like to thank Sapienza NLP Group from which I took the initial inspiration :bow:. 
