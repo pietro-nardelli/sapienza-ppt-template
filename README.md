@@ -1,4 +1,6 @@
-# sapienza-ppt-template :information_desk_person: :bar_chart: :computer: :mortar_board: :rocket:
+# **sapienza-ppt-template**: unofficial power point template for La Sapienza, University of Rome. :information_desk_person: :bar_chart: :computer: :mortar_board: :rocket:
+
+[![README in English](https://img.shields.io/badge/LANG-en-red.svg)](./README.md) [![README in Italian](https://img.shields.io/badge/LANG-it-blue.svg)](./README-it.md)
 ## Introduction
 This is a **unofficial** slide template for La Sapienza, University of Rome :star:.
 
@@ -9,7 +11,6 @@ Two themes are available:
 :-------------------------:|:-------------------------:
 ![Light 1](docs/light_1.jpg) | ![Dark](docs/dark_1.jpg) 
 ![Light 2](docs/light_2.jpg) | ![Dark 2](docs/dark_2.jpg)
-
 
 ## How to use it
 There are two possibilities:
