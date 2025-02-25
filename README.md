@@ -1,4 +1,4 @@
-# **sapienza-ppt-template**: unofficial power point template for La Sapienza, University of Rome. :information_desk_person: :bar_chart: :computer: :mortar_board: :rocket:
+# **sapienza-ppt-template** :information_desk_person: :bar_chart: :computer: :mortar_board: :rocket:
 
 [![README in English](https://img.shields.io/badge/LANG-en-red.svg)](./README.md) [![README in Italian](https://img.shields.io/badge/LANG-it-blue.svg)](./README-it.md)
 ## Introduction
@@ -19,9 +19,6 @@ There are two possibilities:
 
 ## License
 This template is released under the `BY-NC-SA` Creative Common license: [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-Thus, you are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material  
 
 --- 
 
