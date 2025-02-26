@@ -2,7 +2,7 @@
 
 [![README in English](https://img.shields.io/badge/LANG-en-red.svg)](./README.md) [![README in Italian](https://img.shields.io/badge/LANG-it-blue.svg)](./README-it.md)
 ## Introduzione
-Slide template per l'Università degli Studi di Roma "La Sapienza" :star:.
+Slide template (non ufficiale) per l'Università degli Studi di Roma "La Sapienza" :star:.
 
 E stato sviluppato usando [google slides](https://docs.google.com/presentation/u/0/), pertanto la compatibilità con Microsoft Power Point non è assicurata :sleepy:.
 
